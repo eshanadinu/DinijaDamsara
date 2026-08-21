@@ -29,7 +29,7 @@
   })();
 
   // ---- Age & birthday countdown ----
-  const birthDate = new Date(2007, 10, 15); // month index 10 = November
+  const birthDate = new Date(2009, 02, 05); // month index 10 = November
 
   function updateAgeAndCountdown(){
     const now = new Date();
